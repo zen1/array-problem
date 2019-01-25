@@ -1,5 +1,5 @@
-#Install dependencies with `npm install`
+# Install dependencies with `npm install`
 
-#Run `npm test` to run all mocha tests
+# Run `npm test` to run all mocha tests
 
-#This code solveds the problem of creating a function that will return an array with all zeroes at the end of the array if zeroes exist
+# This code solveds the problem of creating a function that will return an array with all zeroes at the end of the array if zeroes exist
