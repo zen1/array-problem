@@ -2,6 +2,6 @@
 
 
 
-### Install dependencies with `npm install`
+* Install dependencies with `npm install`
 
-### Run `npm test` to run all mocha tests
+* Run `npm test` to run all mocha tests
